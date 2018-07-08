@@ -1,0 +1,6 @@
+*.tlog
+*.idb
+.vs/
+Release/
+Debug/
+Release-ready/
